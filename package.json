@@ -137,7 +137,6 @@
     "react-native-switch-selector": "^2.2.0",
     "react-native-tcp": "https://github.com/symmacoin/react-native-tcp.git",
     "react-native-touch-id": "^4.4.1",
-    "react-native-udp": "^2.7.0",
     "react-native-vector-icons": "^9.1.0",
     "react-native-version-number": "^0.3.6",
     "react-query": "^3.34.16",
