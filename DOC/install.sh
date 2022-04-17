@@ -113,3 +113,4 @@ yarn ios
 
 npx pod-install
 
+remove react-native-udp && realm 
